@@ -1,0 +1,40 @@
+.box{
+    margin-top: 10px;
+}
+.content {
+    margin-bottom: 50px;
+    box-shadow:5px 10px 10px rgba(74.0000031888485, 80.00000283122063, 61.00000016391277, 1);
+	background-color:rgba(142.00000673532486, 151.00000619888306, 117.00000062584877, 0.5);
+	width:500px;
+	height:250px;
+	left:414px;
+	top:438px;
+	border-radius:67px;
+}
+header{
+    padding: 40px;
+}
+h1{
+  color:rgba(74.0000031888485, 80.00000283122063, 61.00000016391277, 1);
+	height:83px;
+  text-align: center;
+	font-family:Roboto;
+	font-size:48px;
+}
+
+
+.box .content .isi {
+    padding-top:30px;
+    
+}
+
+.box .content .isi textarea {
+    width: 240px;
+    height:30px;
+    font-size:12px;
+    border-radius: 10px;
+    background-color: rgba(250.00000029802322, 242.00000077486038, 218.00000220537186, 1);
+}
+
+  
+
