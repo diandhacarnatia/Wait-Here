@@ -10,6 +10,7 @@
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+    <link rel="icon" type="images/png" href="images/logo.png">
     <title>WaitHere!</title>
   </head>
   <style>
@@ -68,7 +69,7 @@
                 <div class="col-sm-3">
                     <button type="button" class="btn" style="box-shadow: 5px 4px 3px #8E9775;color:#4A503D; background-color:#FAF2DA;width: 200px; height:50px;border-radius:40px;">Bakery</button>
                 </div>
-                
+
             </div>
         </div>
         <br>
@@ -121,7 +122,7 @@
 			</div>
 			<div class="col-sm-4">
 				<img src="images/namaaz.png" style="box-shadow: 5px 4px 3px #8E9775;width:278px; height:164px;border-radius:10px;">
-            
+
             </div>
 		</div>
         <div class="container"><br>
@@ -138,7 +139,7 @@
             </div>
         </div>
     </div>
-        <br><br><br> 
+        <br><br><br>
         <h1 style="text-shadow: 5px 4px 3px #8E9775;">PEOPLE'S CHOICE</h1>
         <div class="container"><br>
             <div class="row" style="text-align:center;">
@@ -150,7 +151,7 @@
                 </div>
                 <div class="col-sm-4">
                     <img src="images/dear.png" style="box-shadow: 5px 4px 3px #8E9775;width:278px; height:164px;border-radius:10px;">
-                
+
                 </div>
             </div>
             <div class="container"><br>

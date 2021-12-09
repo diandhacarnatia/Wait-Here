@@ -10,6 +10,7 @@
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+    <link rel="icon" type="images/png" href="images/logo.png">
     <title>Restaurant List</title>
   </head>
   <style>
@@ -122,7 +123,7 @@
                     <i class="fas fa-star fa-3x" style="color:#ba9b4a; "></i>
                     <i class="fas fa-star fa-3x" style="color:#ba9b4a; "></i>
                     <i class="fas fa-star-half-alt fa-3x" style="color:#ba9b4a; "></i>
-                    
+
                 </div>
                 <div class="col-sm-4" style="width: 150px; height: 60px; background-color: #8e9775; text-align: center; margin-left: 750px; margin-top: 70px; box-shadow: 2px 2px 2px #8E9775;border-radius:10px;">
                     <button type="button" class="btn" style="padding-top: 15px; color: #FAF2DA; font-size: 18px;">More Details</button>
@@ -149,7 +150,7 @@
                         <i class="fas fa-star fa-3x" style="color:#ba9b4a; "></i>
                         <i class="fas fa-star fa-3x" style="color:#ba9b4a; "></i>
                         <i class="fas fa-star-half-alt fa-3x" style="color:#ba9b4a; "></i>
-                        
+
                     </div>
                     <div class="col-sm-4" style="width: 150px; height: 60px; background-color: #8e9775; text-align: center; margin-left: 750px; margin-top: 70px; box-shadow: 2px 2px 2px #8E9775;border-radius:10px;">
                         <button type="button" class="btn" style="padding-top: 15px; color: #FAF2DA; font-size: 18px;">More Details</button>
@@ -176,7 +177,7 @@
                             <i class="fas fa-star fa-3x" style="color:#ba9b4a; "></i>
                             <i class="far fa-star fa-3x" style="color:#ba9b4a; "></i>
                             <i class="far fa-star fa-3x" style="color:#ba9b4a; "></i>
-                            
+
                         </div>
                         <div class="col-sm-4" style="width: 150px; height: 60px; background-color: #8e9775; text-align: center; margin-left: 750px; margin-top: 70px; box-shadow: 2px 2px 2px #8E9775;border-radius:10px;">
                             <button type="button" class="btn" style="padding-top: 15px; color: #FAF2DA; font-size: 18px;">More Details</button>
@@ -203,7 +204,7 @@
                                 <i class="fas fa-star fa-3x" style="color:#ba9b4a; "></i>
                                 <i class="fas fa-star fa-3x" style="color:#ba9b4a; "></i>
                                 <i class="fas fa-star-half-alt fa-3x" style="color:#ba9b4a; "></i>
-                                
+
                             </div>
                             <div class="col-sm-4" style="width: 150px; height: 60px; background-color: #8e9775; text-align: center; margin-left: 750px; margin-top: 70px; box-shadow: 2px 2px 2px #8E9775;border-radius:10px;">
                                 <button type="button" class="btn" style="padding-top: 15px; color: #FAF2DA; font-size: 18px;">More Details</button>
@@ -231,7 +232,7 @@
                                 <i class="fas fa-star fa-3x" style="color:#ba9b4a; "></i>
                                 <i class="fas fa-star fa-3x" style="color:#ba9b4a; "></i>
                                 <i class="fas fa-star fa-3x" style="color:#ba9b4a; "></i>
-                                
+
                             </div>
                             <div class="col-sm-4" style="width: 150px; height: 60px; background-color: #8e9775; text-align: center; margin-left: 750px; margin-top: 70px; box-shadow: 2px 2px 2px #8E9775;border-radius:10px;">
                                 <button type="button" class="btn" style="padding-top: 15px; color: #FAF2DA; font-size: 18px;">More Details</button>
@@ -311,7 +312,7 @@
                     <i class="fas fa-star fa-3x" style="color:#ba9b4a; "></i>
                     <i class="fas fa-star fa-3x" style="color:#ba9b4a; "></i>
                     <i class="fas fa-star fa-3x" style="color:#ba9b4a; "></i>
-                    
+
                 </div>
             <div class="col-sm-4" style="width: 150px; height: 60px; background-color: #8e9775; text-align: center; margin-left: 750px; margin-top: 70px; box-shadow: 2px 2px 2px #8E9775;border-radius:10px;">
                 <button type="button" class="btn" style="padding-top: 15px; color: #FAF2DA; font-size: 18px;">More Details</button>
@@ -339,7 +340,7 @@
                 <i class="fas fa-star fa-3x" style="color:#ba9b4a; "></i>
                 <i class="fas fa-star fa-3x" style="color:#ba9b4a; "></i>
                 <i class="fas fa-star-half-alt fa-3x" style="color:#ba9b4a; "></i>
-                
+
             </div>
             <div class="col-sm-4" style="width: 150px; height: 60px; background-color: #8e9775; text-align: center; margin-left: 750px; margin-top: 70px; box-shadow: 2px 2px 2px #8E9775;border-radius:10px;">
                 <button type="button" class="btn" style="padding-top: 15px; color: #FAF2DA; font-size: 18px;">More Details</button>
@@ -367,7 +368,7 @@
                 <i class="fas fa-star fa-3x" style="color:#ba9b4a; "></i>
                 <i class="fas fa-star fa-3x" style="color:#ba9b4a; "></i>
                 <i class="fas fa-star-half-alt fa-3x" style="color:#ba9b4a; "></i>
-                
+
             </div>
             <div class="col-sm-4" style="width: 150px; height: 60px; background-color: #8e9775; text-align: center; margin-left: 750px; margin-top: 70px; box-shadow: 2px 2px 2px #8E9775;border-radius:10px;">
                 <button type="button" class="btn" style="padding-top: 15px; color: #FAF2DA; font-size: 18px;">More Details</button>
@@ -378,7 +379,7 @@
     </div>
 <br><br>
 
-        
+
           <div class="footer" style="background-color:#4A503D; height:320px;color: #FAF2DA; margin-top:10px;padding:10px;">
             <br>
             <div class="container">

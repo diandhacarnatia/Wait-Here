@@ -10,6 +10,7 @@
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+    <link rel="icon" type="images/png" href="images/logo.png">
     <title>Live Music</title>
   </head>
   <style>
@@ -103,7 +104,7 @@
             </div>
             </div>
         <br><br>
-        
+
             <br><br>
 
           <div class="footer" style="background-color:#4A503D; height:320px;color: #FAF2DA; margin-top:10px;padding:10px;">

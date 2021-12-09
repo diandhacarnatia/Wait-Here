@@ -10,6 +10,7 @@
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+    <link rel="icon" type="images/png" href="images/logo.png">
     <title>Kkuldak</title>
   </head>
   <style>
@@ -107,7 +108,7 @@
             </div>
             <br>
             <center>
-            <br><br><br> 
+            <br><br><br>
         <h1 style="text-shadow: 5px 4px 3px #8E9775;margin-top:-250px;margin-bottom:20px;margin-left:0px;font-family:roboto;font-weight: bolder;font-size: 50px;color: #4A503D;">M E N U</h1>
         <div class="container"><br>
             <div class="row" style="text-align:center;margin-bottom: 70px;">

@@ -10,6 +10,7 @@
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+    <link rel="icon" type="images/png" href="images/logo.png">
     <title>3 Wise Monkey</title>
   </head>
   <style>
@@ -71,7 +72,7 @@
             <div class="container"><br>
                 <div class="row" style="text-align:center;">
                     <span class="col-sm-3" >
-                        <div style="text-shadow: 2px 0px 5px #8E9775;width: 1440px; height:282px;border-radius:40px;margin-top:0px;margin-left:-70px;font-family:roboto;font-weight: bolder;font-size: 30px;color: #4A503D;">A Japanese Restaurant and Bar in South Jakarta Indonesia. Have wide selection of all you can eat sushi, sashimi, rice bowls, etc. 
+                        <div style="text-shadow: 2px 0px 5px #8E9775;width: 1440px; height:282px;border-radius:40px;margin-top:0px;margin-left:-70px;font-family:roboto;font-weight: bolder;font-size: 30px;color: #4A503D;">A Japanese Restaurant and Bar in South Jakarta Indonesia. Have wide selection of all you can eat sushi, sashimi, rice bowls, etc.
                     </div>
                 </div>
             <br>
@@ -107,7 +108,7 @@
             </div>
             <br>
             <center>
-            <br><br><br> 
+            <br><br><br>
         <h1 style="text-shadow: 5px 4px 3px #8E9775;margin-top:-250px;margin-left:-70px;font-family:roboto;font-weight: bolder;font-size: 50px;color: #4A503D;">M E N U</h1>
         <div class="container"><br>
             <div class="row" style="text-align:center;margin-bottom: 70px;">

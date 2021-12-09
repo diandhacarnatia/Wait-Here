@@ -8,6 +8,7 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.css">
         <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+        <link rel="icon" type="images/png" href="images/logo.png">
         <title>Sign In</title>
     </head>
     <style>
@@ -22,11 +23,11 @@
         <div class="container">
             <div class="row" style="text-align: left;">
                 <div class="col-sm-4">
-                    <img src="images/logo.png" style="text-align: right; width: 70px; height: 70px; margin-top: -20px; margin-left: -50px;"> 
+                    <img src="images/logo.png" style="text-align: right; width: 70px; height: 70px; margin-top: -20px; margin-left: -50px;">
                 </div>
                 <div class="col-sm-4" style="color: #FAF2DA">
                     <a>About</a>
-                </div> 
+                </div>
                 <div class="col-sm-4" style="color: #FAF2DA">
                     <a>Restaurants</a>
                 </div>
