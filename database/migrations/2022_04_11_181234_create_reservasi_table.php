@@ -14,10 +14,10 @@ class CreateReservasiTable extends Migration
     public function up()
     {
         Schema::create('reservasi', function (Blueprint $table) {
-            $table->reservasi_id();
-            $table->restoran_id();
-            $table->user_id();
-            $table->jumlah();
+            $table->bigInteger('reservasi_id');
+            $table->bigInteger('restoran_id');
+            $table->bigInteger('user_id');
+            $table->integer('jumlah');
             $table->date('hari_reservasi');
             $table->time('jam_reservasi');
             $table->enum('request', ['Smoking','Non-Smoking']);

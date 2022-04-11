@@ -14,14 +14,14 @@ class CreateReceiptTable extends Migration
     public function up()
     {
         Schema::create('receipt', function (Blueprint $table) {
-            $table->booking_id();
+            $table->bigInteger('booking_id');
             $table->bigInteger('restoran_id');
-            $table->user_id();
-            $table->reservasi_id();
+            $table->bigInteger('user_id');
+            $table->bigInteger('reservasi_id');
             $table->date('hari_reservasi');
             $table->time('jam_reservasi');
-            $table->jumlah();
-            $table->admin_id();
+            $table->integer('jumlah');
+            $table->bigInteger('admin_id');
             $table->string('nama_admin', 50);
             $table->string('nama_restoran', 50);
             $table->string('nama_user', 50);
